@@ -1,0 +1,8 @@
+{
+  "entity.skycraft.skyrim_actor": "Skyrim NPC",
+  "text.skycraft.destruction": "Skyrim destruction: %s",
+  "text.skycraft.destruction.on": "On",
+  "text.skycraft.destruction.off": "Off",
+  "text.skycraft.destruction.tooltip.host": "Mining Skyrim's ground and rocks, and explosions, dig into Skyrim's world. Holes already dug stay either way.",
+  "text.skycraft.destruction.tooltip.friend": "In a friend's world, their setting decides."
+}

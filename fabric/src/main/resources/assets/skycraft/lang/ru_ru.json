@@ -1,0 +1,8 @@
+{
+  "entity.skycraft.skyrim_actor": "NPC Skyrim",
+  "text.skycraft.destruction": "Разрушение Skyrim: %s",
+  "text.skycraft.destruction.on": "Вкл.",
+  "text.skycraft.destruction.off": "Выкл.",
+  "text.skycraft.destruction.tooltip.host": "Добыча земли и камней, а также взрывы разрушают мир Skyrim. Уже выкопанные ямы останутся в любом случае.",
+  "text.skycraft.destruction.tooltip.friend": "В мире друга настройку определяет хост."
+}
